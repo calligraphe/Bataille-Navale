@@ -15,5 +15,4 @@ To run the software you will need the [Java JRE](https://www.java.com/en/downloa
 Bataille-Navale/src/batailleNavale/BatailleNavale.java
 ```
 
-* Press the run button
-* And play.
+* Now you can press the run button and play.
